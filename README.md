@@ -1,2 +1,2 @@
-# mcpetrade-api-js-wrapper
-API для взаимодействия с mcpetrade.com
+# Mcpetrade API Wrapper
+API Wrapper для взаимодействия с mcpetrade.com
