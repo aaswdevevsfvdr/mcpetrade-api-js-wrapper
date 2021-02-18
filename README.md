@@ -16,6 +16,7 @@ const mc = new MCPETrade({"shop": shopId, "server": serverId})
 | productId | number | Да | ID продукта |
 | username | string | Да | Ник пользователя |
 | coupon | string | Нет | Скидочный купон |
+
 **Пример**
 ``` js
 async function createPayment() {
